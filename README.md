@@ -4,7 +4,7 @@ A list of links and tools that could be useful to Threat Intelligence Analyst as
 ## Websites
 
 ### Phishing
-• https://lookyloo.circl.lu/\
+• https://lookyloo.circl.lu/
 
 ### Domains
 • https://search.censys.io/ \
