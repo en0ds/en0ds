@@ -17,7 +17,6 @@
 ### Ransomware feeds
 
 • [Ransomwwatch](https://ransomwatch.telemetry.ltd/#/)\
-
 • https://web.archive.org/ \
 • https://shodan.io\
 
