@@ -1,4 +1,4 @@
-## Junior Threat Intelligence Analyst
+## ''Junior Threat Intelligence Analyst''
 Im gather links and tools that could useful to Threat Intelligence Analyst as well as SOC analyst.
 
 ## Websites
