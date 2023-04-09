@@ -6,6 +6,9 @@ A list of links and tools that could be useful to Threat Intelligence Analyst as
 ### Phishing
 • https://lookyloo.circl.lu/
 
+## Data leakage
+• https://github.com/ail-project/ail-framework
+
 ### Domains
 • https://search.censys.io/ \
 • https://whois.domaintools.com/ \
