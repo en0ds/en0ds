@@ -14,6 +14,9 @@ A list of links and tools that could be useful to Threat Intelligence Analyst as
 • https://whois.domaintools.com/ \
 • https://leakix.net/ 
 
+### URL:s
+• https://github.com/CIRCL/url-abuse
+
 ### CVE feeds
 • https://cxsecurity.com/
 
