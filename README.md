@@ -2,6 +2,19 @@
 
 ## Useful links/Tools
 
+### Phishing
+https://lookyloo.circl.lu/
+
+### Domains
+https://search.censys.io/
+https://whois.domaintools.com/
+https://leakix.net/
+
+### CVE
+https://cxsecurity.com/
+
+### Ransomware
+https://ransomwatch.telemetry.ltd/#/ 
 <!--
 **en0ds/en0ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
