@@ -16,7 +16,9 @@ Im gather links and tools that could useful to Threat Intelligence Analyst as we
 • https://cxsecurity.com/
 
 ### Ransomware feeds
-https://ransomwatch.telemetry.ltd/#/ 
+[This is an external link to genome.gov](https://www.genome.gov/)
+
+• [Ransomwwatch](https://ransomwatch.telemetry.ltd/#/)
 
 ### 
 [This is an external link to genome.gov](https://www.genome.gov/)
