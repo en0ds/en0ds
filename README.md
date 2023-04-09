@@ -1,4 +1,4 @@
-## Junior Threat Intelligence Analyst
+## Hello, I'm En0d 👋
 ``Im gather links and tools that could useful to Threat Intelligence Analyst as well as SOC analyst.``
 
 ## Websites
@@ -25,17 +25,17 @@
 • https://virustotal.com \
 • https://talosintelligence.com/ 
 
-### Tools
-• [mx-takeover](https://github.com/musana/mx-takeover)\
-• [poastal](https://github.com/jakecreps/poastal)\
-• Socialscan\
-• spiderfoot\
-• sub404\
-• subscraper\
-• sybzy\
-• TheHarvester\
-• torghost\
-• dnsTwist\
+## Tools
+• [mx-takeover - DNS MX records and detects misconfigured MX records](https://github.com/musana/mx-takeover)\
+• [poastal - the Email OSINT tool](https://github.com/jakecreps/poastal)\
+• [Socialscan - offers accurate and fast checks for email address and username usage on online platforms](https://github.com/iojw/socialscan)\
+• [SpiderFoot -  is an open source intelligence automation tool](https://github.com/smicallef/spiderfoot)\
+• [sub404 - A Fast Tool To Check Subdomain Takeover Vulnerability](https://github.com/r3curs1v3-pr0xy/sub404)\
+• [subscraper -  is a fast subdomain enumeration tool that uses a variety of techniques to find subdomains of a given target](https://github.com/m8sec/subscraper)\
+• [subzy - Subdomain takeover vulnerability checker](https://github.com/LukaSikic/subzy)\
+• [TheHarvester - The tool gathers names, emails, IPs, subdomains, and URLs](https://github.com/laramies/theHarvester)\
+• [TorGhost - is an anonymization script](https://github.com/SusmithKrishnan/torghost)\
+• [dnstwist - DNS fuzzing is an automated workflow for discovering potentially malicious domains](https://github.com/elceef/dnstwist)\
 
 <!--
 **en0ds/en0ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
