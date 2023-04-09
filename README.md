@@ -9,10 +9,10 @@
 ### Domains
 • https://search.censys.io/ \
 • https://whois.domaintools.com/ \
-• https://leakix.net/ \
+• https://leakix.net/ 
 
 ### CVE feeds
-• https://cxsecurity.com/\
+• https://cxsecurity.com/
 
 ### Ransomware feeds
 
@@ -21,9 +21,9 @@
 • https://shodan.io\
 
 ### Check IP-addresses
-https://viz.greynoise.io/ \
-https://virustotal.com \
-https://talosintelligence.com/ \
+• https://viz.greynoise.io/ \
+• https://virustotal.com \
+• https://talosintelligence.com/ 
 
 ### Tools
 • [mx-takeover](https://github.com/musana/mx-takeover)\
