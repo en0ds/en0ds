@@ -7,9 +7,9 @@
 • https://lookyloo.circl.lu/\
 
 ### Domains
-• https://search.censys.io/\
-• https://whois.domaintools.com/\
-• https://leakix.net/\
+• https://search.censys.io/ \
+• https://whois.domaintools.com/ \
+• https://leakix.net/ \
 
 ### CVE feeds
 • https://cxsecurity.com/\
