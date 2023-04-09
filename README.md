@@ -26,8 +26,8 @@ https://virustotal.com
 https://talosintelligence.com/
 
 ### Tools
-• mx-takeover\
-• poastal\
+• [mx-takeover](https://github.com/musana/mx-takeover)\
+• [poastal](https://github.com/jakecreps/poastal)\
 • Socialscan\
 • spiderfoot\
 • sub404\
