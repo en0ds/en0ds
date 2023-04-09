@@ -1,20 +1,26 @@
-### Hi there 👋
+## Cybersecurity Geek working in Threat Intelligence
+Im gather links and tools that could useful to Threat Intelligence Analyst as well as SOC analyst
 
 ## Useful links/Tools
 
 ### Phishing
-https://lookyloo.circl.lu/
+• https://lookyloo.circl.lu/
+
 
 ### Domains
-https://search.censys.io/
-https://whois.domaintools.com/
-https://leakix.net/
+• https://search.censys.io/
+• https://whois.domaintools.com/
+• https://leakix.net/
 
-### CVE
-https://cxsecurity.com/
+### CVE feeds
+• https://cxsecurity.com/
 
-### Ransomware
+### Ransomware feeds
 https://ransomwatch.telemetry.ltd/#/ 
+
+### 
+[This is an external link to genome.gov](https://www.genome.gov/)
+
 <!--
 **en0ds/en0ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
