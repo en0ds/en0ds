@@ -21,9 +21,9 @@
 • https://shodan.io\
 
 ### Check IP-addresses
-https://viz.greynoise.io/
-https://virustotal.com
-https://talosintelligence.com/
+https://viz.greynoise.io/ \
+https://virustotal.com \
+https://talosintelligence.com/ \
 
 ### Tools
 • [mx-takeover](https://github.com/musana/mx-takeover)\
