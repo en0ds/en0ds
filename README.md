@@ -18,7 +18,7 @@
 
 • [Ransomwwatch](https://ransomwatch.telemetry.ltd/#/)\
 
-• https://web.archive.org/\
+• https://web.archive.org/ \
 • https://shodan.io\
 
 ### Check IP-addresses
