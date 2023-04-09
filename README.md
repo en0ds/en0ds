@@ -4,23 +4,22 @@
 ## Websites
 
 ### Phishing
-• https://lookyloo.circl.lu/
+• https://lookyloo.circl.lu/\
 
 ### Domains
-• https://search.censys.io/
-• https://whois.domaintools.com/
-• https://leakix.net/
+• https://search.censys.io/\
+• https://whois.domaintools.com/\
+• https://leakix.net/\
 
 ### CVE feeds
-• https://cxsecurity.com/
+• https://cxsecurity.com/\
 
 ### Ransomware feeds
 
-• [Ransomwwatch](https://ransomwatch.telemetry.ltd/#/)
+• [Ransomwwatch](https://ransomwatch.telemetry.ltd/#/)\
 
-• https://web.archive.org/
-
-• https://shodan.io
+• https://web.archive.org/\
+• https://shodan.io\
 
 ### Check IP-addresses
 https://viz.greynoise.io/
@@ -28,16 +27,16 @@ https://virustotal.com
 https://talosintelligence.com/
 
 ### Tools
-• mx-takeover
-• poastal
-• Socialscan
-• spiderfoot
-• sub404
-• subscraper
-• sybzy
-• TheHarvester
-• torghost
-• dnsTwist
+• mx-takeover\
+• poastal\
+• Socialscan\
+• spiderfoot\
+• sub404\
+• subscraper\
+• sybzy\
+• TheHarvester\
+• torghost\
+• dnsTwist\
 
 <!--
 **en0ds/en0ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
