@@ -1,11 +1,10 @@
-## Cybersecurity Geek working in Threat Intelligence
-Im gather links and tools that could useful to Threat Intelligence Analyst as well as SOC analyst
+## Junior Threat Intelligence Analyst
+Im gather links and tools that could useful to Threat Intelligence Analyst as well as SOC analyst.
 
-## Useful links/Tools
+## Websites
 
 ### Phishing
 • https://lookyloo.circl.lu/
-
 
 ### Domains
 • https://search.censys.io/
@@ -16,12 +15,29 @@ Im gather links and tools that could useful to Threat Intelligence Analyst as we
 • https://cxsecurity.com/
 
 ### Ransomware feeds
-[This is an external link to genome.gov](https://www.genome.gov/)
 
 • [Ransomwwatch](https://ransomwatch.telemetry.ltd/#/)
 
-### 
-[This is an external link to genome.gov](https://www.genome.gov/)
+• https://web.archive.org/
+
+• https://shodan.io
+
+### Check IP-addresses
+https://viz.greynoise.io/
+https://virustotal.com
+https://talosintelligence.com/
+
+### Tools
+• mx-takeover
+• poastal
+• Socialscan
+• spiderfoot
+• sub404
+• subscraper
+• sybzy
+• TheHarvester
+• torghost
+• dnsTwist
 
 <!--
 **en0ds/en0ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
