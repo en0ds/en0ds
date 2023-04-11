@@ -13,6 +13,7 @@ A list of links and tools that could be useful to Threat Intelligence Analyst as
 • https://search.censys.io/ \
 • https://whois.domaintools.com/ \
 • https://leakix.net/ 
+• https://tools.whoisxmlapi.com/
 
 ### URL:s
 • https://github.com/CIRCL/url-abuse
