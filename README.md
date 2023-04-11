@@ -14,6 +14,8 @@ A list of links and tools that could be useful to Threat Intelligence Analyst as
 • https://whois.domaintools.com/ \
 • https://leakix.net/ 
 • https://tools.whoisxmlapi.com/
+• https://web.archive.org/ \
+• https://shodan.io\
 
 ### URL:s
 • https://github.com/CIRCL/url-abuse
@@ -24,8 +26,7 @@ A list of links and tools that could be useful to Threat Intelligence Analyst as
 ### Ransomware feeds
 
 • [Ransomwwatch](https://ransomwatch.telemetry.ltd/#/)\
-• https://web.archive.org/ \
-• https://shodan.io\
+
 
 ### Check IP-addresses
 • https://viz.greynoise.io/ \
@@ -43,6 +44,7 @@ A list of links and tools that could be useful to Threat Intelligence Analyst as
 • [TheHarvester - The tool gathers names, emails, IPs, subdomains, and URLs](https://github.com/laramies/theHarvester)\
 • [TorGhost - is an anonymization script](https://github.com/SusmithKrishnan/torghost)\
 • [dnstwist - DNS fuzzing is an automated workflow for discovering potentially malicious domains](https://github.com/elceef/dnstwist)\
+• [revwhoix - A simple utility to perform reverse WHOIS lookups using whoisxml API](https://github.com/Sybil-Scan/revwhoix)
 
 <!--
 **en0ds/en0ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
