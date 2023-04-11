@@ -25,7 +25,7 @@ A list of links and tools that could be useful to Threat Intelligence Analyst as
 
 ### Ransomware feeds
 
-• [Ransomwwatch](https://ransomwatch.telemetry.ltd/#/)\
+• [Ransomwwatch](https://ransomwatch.telemetry.ltd/#/)
 
 
 ### Check IP-addresses
