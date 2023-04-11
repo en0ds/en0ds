@@ -15,7 +15,7 @@ A list of links and tools that could be useful to Threat Intelligence Analyst as
 • https://leakix.net/ 
 • https://tools.whoisxmlapi.com/
 • https://web.archive.org/ \
-• https://shodan.io\
+• https://shodan.io
 
 ### URL:s
 • https://github.com/CIRCL/url-abuse
