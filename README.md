@@ -12,8 +12,8 @@ A list of links and tools that could be useful to Threat Intelligence Analyst as
 ### Domains
 • https://search.censys.io/ \
 • https://whois.domaintools.com/ \
-• https://leakix.net/ 
-• https://tools.whoisxmlapi.com/
+• https://leakix.net/ \
+• https://tools.whoisxmlapi.com/ \
 • https://web.archive.org/ \
 • https://shodan.io
 
