@@ -20,7 +20,7 @@ Useful tools!
 • https://github.com/CIRCL/url-abuse
 
 ### CVE feeds
-• https://cxsecurity.com/
+• https://cxsecurity.com/ \
 https://vulmon.com/
 
 ### Ransomware feeds
