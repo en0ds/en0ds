@@ -21,6 +21,7 @@ Useful tools!
 
 ### CVE feeds
 • https://cxsecurity.com/
+https://vulmon.com/
 
 ### Ransomware feeds
 
