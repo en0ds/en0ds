@@ -21,12 +21,14 @@ Useful tools!
 
 ### CVE feeds
 • https://cxsecurity.com/ \
-https://vulmon.com/
+• https://vulmon.com/
 
 ### Ransomware feeds
 
 • [Ransomwwatch](https://ransomwatch.telemetry.ltd/#/)
 
+### Deobfuscating Tools
+• https://lelinhtinh.github.io/de4js/
 
 ### Check IP-addresses
 • https://viz.greynoise.io/ \
