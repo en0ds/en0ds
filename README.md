@@ -1,5 +1,4 @@
-## Hello, I'm En0ds 👋
-A list of links and tools that could be useful to Threat Intelligence Analyst as well as SOC analyst.
+##Useful tools!
 
 ## Websites
 
